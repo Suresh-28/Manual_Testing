@@ -1,0 +1,13 @@
+Manual Testing:
+
+1. Project Introduction
+2. Understanding & Explore the Functionality (FRS)
+3. Estimation
+4. Test plan
+5. Writing Test Scenarios
+6. Writing Test Cases & Reviews
+7. Environment Setup & Build deployment
+8. Test Execution
+9. Bug REporting & Tracking
+10. Sanity Testing, Re-Testing &  Regression Testing
+11. Test  Sign Off
